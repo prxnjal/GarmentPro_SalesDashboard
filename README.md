@@ -1,4 +1,4 @@
-# GarmentPro_SalesDashboard
+# GarmentPro_SalesDashboard(Excel)
 GarmentPro Sales Analysis with an Interactive Dashboard in Excel is a business-focused project that showcases Excel-based Business analysis and reporting skills. The dashboard offers a clear and user-friendly interface for exploring sales, customer behavior, and performance metrics using real-world garment sales data. This project highlights how Excel can be used as a powerful tool for decision-making by combining its data handling capabilities with interactive visualizations.
 
 
